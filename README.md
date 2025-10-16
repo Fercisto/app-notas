@@ -24,7 +24,7 @@ Una aplicación web minimalista para gestionar notas personales. Permite crear, 
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/TU_USUARIO/app-notas.git
+git clone https://github.com/Fercisto/app-notas.git
 ```
 
 2. Navega al directorio del proyecto:
